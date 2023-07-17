@@ -1,0 +1,17 @@
+.success {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.success a {
+    color: white;
+    text-decoration: underline;
+}
+
+.success a:hover {
+    text-decoration: none;
+}
